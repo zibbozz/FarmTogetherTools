@@ -1,0 +1,15 @@
+D:\C#Projekte\FarmTogetherTools\FarmTogetherTools\bin\Debug\FarmTogetherTools.exe.config
+D:\C#Projekte\FarmTogetherTools\FarmTogetherTools\bin\Debug\FarmTogetherTools.exe
+D:\C#Projekte\FarmTogetherTools\FarmTogetherTools\bin\Debug\FarmTogetherTools.pdb
+D:\C#Projekte\FarmTogetherTools\FarmTogetherTools\obj\Debug\FarmTogetherTools.csprojAssemblyReference.cache
+D:\C#Projekte\FarmTogetherTools\FarmTogetherTools\obj\Debug\MainWindow.g.cs
+D:\C#Projekte\FarmTogetherTools\FarmTogetherTools\obj\Debug\App.g.cs
+D:\C#Projekte\FarmTogetherTools\FarmTogetherTools\obj\Debug\FarmTogetherTools_MarkupCompile.cache
+D:\C#Projekte\FarmTogetherTools\FarmTogetherTools\obj\Debug\FarmTogetherTools_MarkupCompile.lref
+D:\C#Projekte\FarmTogetherTools\FarmTogetherTools\obj\Debug\MainWindow.baml
+D:\C#Projekte\FarmTogetherTools\FarmTogetherTools\obj\Debug\FarmTogetherTools.g.resources
+D:\C#Projekte\FarmTogetherTools\FarmTogetherTools\obj\Debug\FarmTogetherTools.Properties.Resources.resources
+D:\C#Projekte\FarmTogetherTools\FarmTogetherTools\obj\Debug\FarmTogetherTools.csproj.GenerateResource.cache
+D:\C#Projekte\FarmTogetherTools\FarmTogetherTools\obj\Debug\FarmTogetherTools.csproj.CoreCompileInputs.cache
+D:\C#Projekte\FarmTogetherTools\FarmTogetherTools\obj\Debug\FarmTogetherTools.exe
+D:\C#Projekte\FarmTogetherTools\FarmTogetherTools\obj\Debug\FarmTogetherTools.pdb

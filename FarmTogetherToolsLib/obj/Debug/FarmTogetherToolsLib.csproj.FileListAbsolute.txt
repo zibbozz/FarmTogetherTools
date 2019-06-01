@@ -1,0 +1,6 @@
+D:\C#Projekte\FarmTogetherTools\FarmTogetherToolsLib\bin\Debug\FarmTogetherToolsLib.dll
+D:\C#Projekte\FarmTogetherTools\FarmTogetherToolsLib\bin\Debug\FarmTogetherToolsLib.pdb
+D:\C#Projekte\FarmTogetherTools\FarmTogetherToolsLib\obj\Debug\FarmTogetherToolsLib.csproj.CoreCompileInputs.cache
+D:\C#Projekte\FarmTogetherTools\FarmTogetherToolsLib\obj\Debug\FarmTogetherToolsLib.dll
+D:\C#Projekte\FarmTogetherTools\FarmTogetherToolsLib\obj\Debug\FarmTogetherToolsLib.pdb
+D:\C#Projekte\FarmTogetherTools\FarmTogetherToolsLib\obj\Debug\FarmTogetherToolsLib.csprojAssemblyReference.cache
